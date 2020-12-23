@@ -1,0 +1,11 @@
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\bin\Debug\Lab4.exe
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\bin\Debug\Lab1.exe
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\bin\Debug\Lab1.pdb
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\bin\Debug\Lab1.exe.config
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\obj\Debug\Lab4.exe
+C:\Users\Navid\source\repos\LabsDotNet\Lab4\obj\Debug\Lab4.pdb
